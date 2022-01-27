@@ -4,7 +4,7 @@
 Write music in the Pico-8 tracker with your midi controller.  
 Made to work with the Nektar SE25 - you may have to edit this script for it to work for you!
 
-## Other versions:
+## Other Versions:
 If my code does not work, check out these other implementations that may work for you!
 * [Luca Harris' and Stanislav Khromov's version](https://github.com/lucatronica/pico8-midi-to-keyboard)
 * [Sam Hocevar's version](https://github.com/samhocevar/midi2pico8)
