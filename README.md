@@ -15,7 +15,7 @@ If my code does not work, check out these other implementations that may work fo
 * [Pydirectinput library](https://pypi.org/project/PyDirectInput/) - *pip install pydirectinput*
 
 ## Usage:
-* In your terminal: *python midi.py*
+* In your terminal: *python midi.py (python3 on Mac and Linux)*
 * Click onto Pico-8
 
 ## Support:
